@@ -23,7 +23,8 @@
         font-weight: bold;
         font-family: 'Trebuchet MS', sans-serif;
         background-color:palegreen;
-        padding-top: 0;
+        margin: 0;
+        padding: 0.5rem;
     }
 
     p {
