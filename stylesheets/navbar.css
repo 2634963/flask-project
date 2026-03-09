@@ -5,11 +5,13 @@
     display: flex;
 
     ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  background-color: #333333;
-  display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333333;
+    display: flex;
+    position: fixed;
+    font-family: 'Trebuchet MS', sans-serif;
     }
 
     ul li a {
