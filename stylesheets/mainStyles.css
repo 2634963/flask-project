@@ -11,7 +11,7 @@
 }
 
 .card {
-    border: 1px solid #999999;
+    border: 3px solid #999999;
     border-radius: 3px;
 
     display: grid;
@@ -22,6 +22,8 @@
         font-size: 32px;
         font-weight: bold;
         font-family: 'Trebuchet MS', sans-serif;
+        background-color:palegreen;
+        padding-top: 0;
     }
 
     p {

@@ -3,6 +3,7 @@
 .navbar {
     background-color:palegreen;
     display: flex;
+    font-family: 'Trebuchet MS', sans-serif;
 
     ul {
     list-style-type: none;
@@ -10,13 +11,17 @@
     padding: 0;
     background-color: #333333;
     display: flex;
+    top: 0;
+    left: 0;
+    width: 100%;
     position: fixed;
-    font-family: 'Trebuchet MS', sans-serif;
+    justify-content: center;
     }
 
     ul li a {
     display: block;
     color: white;
+    text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     }
@@ -24,4 +29,5 @@
     ul li a:hover {
     background-color: #111111;
     }
+
 }
